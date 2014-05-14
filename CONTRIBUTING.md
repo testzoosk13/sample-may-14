@@ -1,5 +1,6 @@
 # CONTRIBUTING Guidelines
 
 * All work and Pull Requests are welcome
-* Be kind
-* Be open
+* Let's all be kind
+* Listen and be receptive to feedback
+
